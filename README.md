@@ -50,7 +50,7 @@ And for making it user-friednly I made 'TOP' button but as you can feel, I made 
 
 I didn't know using **':root'** element before so wrote every element values by myself, even though I kept writing same values. 
 So After studying **':root'** element so I changed it like this 
-<img width="800" alt="root css" src=""https://user-images.githubusercontent.com/77384682/107650440-d7cdaa80-6cc1-11eb-9f65-67a7fd81ac9e.png">
+<img width="800" alt="root css" src="https://user-images.githubusercontent.com/77384682/107650440-d7cdaa80-6cc1-11eb-9f65-67a7fd81ac9e.png">
 
 
 And I also didn't know about **flex-box** at that moment. So I tried to changed some part ( using with float ) with **flex-box**
