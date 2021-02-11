@@ -17,7 +17,7 @@ _NYX cosmetic website, re-design and coded by myself_
 
 When I open the website, It was hard to focus on the product or ads. 
 So I tried to make layout simple and wide to emphasize the products. 
-And I felt that the color combination is not going well, I tried to chagned the color 
+And I felt that the color combination is not going well, I tried to changed the color 
 into **Black and Purple** To emphasize their genderless concept. 
 
 
