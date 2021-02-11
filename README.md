@@ -1,4 +1,4 @@
-# NYX
+# 💄NYX💄
 _NYX cosmetic website, re-design and coded by myself_ 
 
 ### 📍https://sumin03.github.io/NYX/
