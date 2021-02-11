@@ -63,10 +63,10 @@ If you want to see more check my css history on my github!
 1. I really like the color on the website. I found out that When I open the NYX website, It is a bit distracted because of the colors. 
 So I tried to find the perfect color that Show their **genderless character** and easy to focus on the products
 
-<img width="600" src="https://user-images.githubusercontent.com/77384682/107416081-6d98f680-6b57-11eb-9159-b231b1d9fb80.png">
+<img width="600" src="https://user-images.githubusercontent.com/77384682/107641759-5a04a180-6cb7-11eb-9193-647058ca7e8a.png">
 
 
-<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107416340-b6e94600-6b57-11eb-8fd6-9d8c6b5d63b7.png">
+<img width="600" alt="스크린샷 2021-02-10 오전 4 18 39" src="https://user-images.githubusercontent.com/77384682/107641827-70aaf880-6cb7-11eb-810f-8a19e5414759.png">
 
 2. I made **'top button**. As one of a website user, I sometimes found out the annoyed part when website do not offer 'back to top' button. 
 So I put it in for users. 
